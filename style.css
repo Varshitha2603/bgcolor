@@ -1,0 +1,13 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    gap: 40px;
+}
+#btn1color1, #btncolor2
+{
+    height: 50px;
+    font-size: larger;
+    border-radius: 30px;
+}
